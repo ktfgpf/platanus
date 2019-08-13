@@ -4,4 +4,3 @@ from django.http import HttpResponse
 
 def hello(request):
     return HttpResponse('Hello,I am Takahiro.This is my site!')
-
